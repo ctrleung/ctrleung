@@ -1,4 +1,13 @@
-### hi there 👋
+<p align="center">
+  <img src="hachiware-typing.gif" width="140">
+  <img src="hachiware-typing.gif" width="140">
+  <img src="hachiware-typing.gif" width="140">
+  <img src="hachiware-typing.gif" width="140">
+  <img src="hachiware-typing.gif" width="140">
+  <img src="hachiware-typing.gif" width="140">
+  <img src="hachiware-typing.gif" width="140">
+</p>
+<p>hi</p>
 
 <!--
 **nullishcat/nullishcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
