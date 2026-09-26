@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="hachiware-typing.gif" width="140">
   <img src="hachiware-typing.gif" width="140">
   <img src="hachiware-typing.gif" width="140">
@@ -6,7 +6,8 @@
   <img src="hachiware-typing.gif" width="140">
   <img src="hachiware-typing.gif" width="140">
   <img src="hachiware-typing.gif" width="140">
-</p>
+</p> -->
+<img src="hachiware.gif" width="100%" alt="typing cat">
 <p>hi</p>
 
 <!--
