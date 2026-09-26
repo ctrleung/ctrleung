@@ -8,7 +8,6 @@
   <img src="hachiware-typing.gif" width="140">
 </p> -->
 <img src="hachiware.gif" width="100%" alt="typing cat">
-<p>hi</p>
 
 <!--
 **nullishcat/nullishcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
